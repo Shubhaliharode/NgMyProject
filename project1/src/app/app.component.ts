@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'project1';
+  res:number;
+  add(num:number,num2:number){
+this.res=num+num2;
+  }
 }
