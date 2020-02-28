@@ -1,0 +1,48 @@
+
+th {
+
+  background-color: #4CAF50;
+  color: white;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th, td {
+  text-align: left;
+  padding: 0%;
+}
+.w3-input{
+    color: teal;
+    width: 100%;
+}
+input[type="text"]
+{
+    font-size:24px;
+}
+.btn {
+  background-color: rgb(231, 69, 164); /* Green */
+  border: none;
+  color: white;
+  padding: 20px 50%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.button:hover .btn {background-color: #3e8e41;}
+
+.btb{
+    border: none;
+  color: white;
+  padding: 20px 50%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+background-color:rgba(231, 149, 207, 0.925);
+}
